@@ -1,4 +1,4 @@
-package com.eshopsingle.customer
+package in.premiumgift.android
 
 /*
 import io.flutter.embedding.android.FlutterActivity

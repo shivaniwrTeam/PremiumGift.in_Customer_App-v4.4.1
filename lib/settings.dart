@@ -6,13 +6,13 @@ class AppSettings {
   ///
 
   // The name of the application
-  static const String appName = 'eShop';
+  static const String appName = 'PremiumGift.in';
 
   // The package name for the Android app
-  static const String packageName = 'com.eshopsingle.customer';
+  static const String packageName = 'in.premiumgift.android';
 
   // The package name for the iOS app
-  static const String iosPackage = 'com.wrteam.eshop';
+  static const String iosPackage = 'in.premiumgift.ios';
 
   // The URL link to the iOS app on the App Store (to be replaced with the actual link)
   static const String iosLink = 'your ios link here';

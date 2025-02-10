@@ -1,5 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="56.077" height="104.7" viewBox="0 0 56.077 104.7">
-  <g id="facebook_button" transform="translate(-1643.217 -158)">
-    <path id="facebok_button" d="M54.01,58.893l2.908-18.948H38.737v-12.3c0-5.184,2.54-10.237,10.683-10.237h8.266V1.28A100.8,100.8,0,0,0,43.013,0C28.04,0,18.253,9.075,18.253,25.5V39.945H1.609V58.893H18.253V104.7H38.737V58.893Z" transform="translate(1641.608 158)" fill="#3f5a9b"/>
-  </g>
+<svg width="57" height="106" viewBox="0 0 57 106" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_86_672)">
+<path d="M52.901 59.393L55.809 40.445H37.628V28.145C37.628 22.961 40.168 17.908 48.311 17.908H56.577V1.78C51.7238 0.996094 46.8197 0.568285 41.904 0.5C26.931 0.5 17.144 9.575 17.144 26V40.445H0.5V59.393H17.144V105.2H37.628V59.393H52.901Z" fill="#3F5A9B"/>
+</g>
+<defs>
+<clipPath id="clip0_86_672">
+<rect width="56.077" height="104.7" fill="white" transform="translate(0.5 0.5)"/>
+</clipPath>
+</defs>
 </svg>

@@ -1,4 +1,11 @@
-<svg id="tap" xmlns="http://www.w3.org/2000/svg" width="63" height="44" viewBox="0 0 63 44">
-  <rect id="Rectangle_2894" data-name="Rectangle 2894" width="61" height="42" rx="21" transform="translate(1 1)" fill="#eef2f9" stroke="#6133bd" stroke-width="2"/>
-  <path id="Path_15141" data-name="Path 15141" d="M31.5,12l-7-11h14Z" fill="#6133bd"/>
+<svg width="64" height="45" viewBox="0 0 64 45" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_86_378)">
+<path d="M41.5 1.5H22.5C10.902 1.5 1.5 10.902 1.5 22.5C1.5 34.098 10.902 43.5 22.5 43.5H41.5C53.098 43.5 62.5 34.098 62.5 22.5C62.5 10.902 53.098 1.5 41.5 1.5Z" fill="#EEF2F9" stroke="#FF0000" stroke-width="2"/>
+<path d="M32 12.5L25 1.5H39L32 12.5Z" fill="#FF0000"/>
+</g>
+<defs>
+<clipPath id="clip0_86_378">
+<rect width="63" height="44" fill="white" transform="translate(0.5 0.5)"/>
+</clipPath>
+</defs>
 </svg>

@@ -1,9 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
-  <g id="vag" transform="translate(0 0.209)">
-    <g id="Rectangle_2632" data-name="Rectangle 2632" transform="translate(0 -0.209)" fill="#fff" stroke="#29772f" stroke-width="0.5">
-      <rect width="14" height="14" stroke="none"/>
-      <rect x="0.25" y="0.25" width="13.5" height="13.5" fill="none"/>
-    </g>
-    <rect id="Rectangle_2633" data-name="Rectangle 2633" width="9" height="9" rx="4.5" transform="translate(2.5 2.291)" fill="#29772f"/>
-  </g>
+<svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_86_420)">
+<path d="M14.5 0.5H0.5V14.5H14.5V0.5Z" fill="white"/>
+<path d="M14.25 0.75H0.75V14.25H14.25V0.75Z" stroke="#29772F" stroke-width="0.5"/>
+<path d="M12 7.5C12 5.01472 9.98528 3 7.5 3C5.01472 3 3 5.01472 3 7.5C3 9.98528 5.01472 12 7.5 12C9.98528 12 12 9.98528 12 7.5Z" fill="#29772F"/>
+</g>
+<defs>
+<clipPath id="clip0_86_420">
+<rect width="14" height="14" fill="white" transform="translate(0.5 0.5)"/>
+</clipPath>
+</defs>
 </svg>

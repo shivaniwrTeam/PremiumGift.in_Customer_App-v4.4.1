@@ -27,7 +27,7 @@
 			<string>Bundle id</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.wrteam.eshop</string>
+				<string>in.premiumgift.ios</string>
 			</array>
 		</dict>
 		<dict>
